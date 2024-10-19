@@ -2,9 +2,9 @@
 
 <img align="right" src="https://i.pinimg.com/564x/49/bc/0e/49bc0eed2de814a76484157045298feb.jpg" width="90px"> 
 
-🎵 *Entre batidas e melodias, é onde me encontro*   
-🎓 Estudante de *Engenharia de Software* na PUCRS  
-💻 Buscando adquirir conhecimento em desenvolvimento *full-stack, com ênfase em **HTML, **CSS, **JavaScript* e *React*.
+🎵 **Entre batidas e melodias, é onde me encontro**   
+🎓 Estudante de **Engenharia de Software** na PUCRS  
+💻 Buscando adquirir conhecimento em desenvolvimento **full-stack**, com ênfase em **HTML**, **CSS**, **JavaScript** e **React**.
 
 ---
 
