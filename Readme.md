@@ -4,7 +4,7 @@
 
 🎵 **Entre batidas e melodias, é onde me encontro**   
 🎓 Estudante de **Engenharia de Software** na PUCRS  
-💻 Buscando adquirir conhecimento em desenvolvimento **full-stack**, com ênfase em **HTML**, **CSS**, **JavaScript** e **React**.
+💻 Buscando adquirir conhecimento em desenvolvimento **full-stack**,  **Mobile** e **Eng de Software**.
 
 ---
 
@@ -19,7 +19,6 @@ Sou um entusiasta da tecnologia, sempre buscando aprender novas ferramentas e me
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://img.icons8.com/nolan/64/github.png" alt="GitHub Desktop" width="40" /></p>
