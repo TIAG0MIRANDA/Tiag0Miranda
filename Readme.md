@@ -1,6 +1,6 @@
 # Hello World, me chamo </Tiago Miranda> 👋
 
-<img align="right" src="https://i.pinimg.com/564x/49/bc/0e/49bc0eed2de814a76484157045298feb.jpg" width="90px"> 
+<img align="right" src="https://i.pinimg.com/736x/57/6d/2b/576d2b7bb3f01c28b319426c4fc91d3d.jpg" width="90px"> 
 
 🎵 **Entre batidas e melodias, é onde me encontro**   
 🎓 Estudante de **Engenharia de Software** na PUCRS  
