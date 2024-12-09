@@ -4,7 +4,7 @@
 
 🎵 **Entre batidas e melodias, é onde me encontro**   
 🎓 Estudante de **Engenharia de Software** na PUCRS  
-💻 Buscando adquirir conhecimento em desenvolvimento **full-stack**, com ênfase em **HTML**, **CSS**, **JavaScript** e **React**.
+💻 Buscando adquirir conhecimento em desenvolvimento **full-stack**, com ênfase em **HTML**, **CSS**, **JavaScript** e **Java**.
 
 ---
 
